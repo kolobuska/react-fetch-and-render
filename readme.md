@@ -18,8 +18,8 @@ The data for this project is retrieved from [Metaweather](https://www.metaweathe
 * Weather forecast is shown for the next 5 days, including weather, temperature, wind, humidity, pressure and visability
 * Users are able to select city from the list (the biggest 10 US cities are available)
 
+![image](https://user-images.githubusercontent.com/4696163/118411901-9cde6880-b65c-11eb-9add-6b53acb76251.png)
 
-![image]()
 
 ### API Calls
 To get the weather forecast, the following API query is used:
